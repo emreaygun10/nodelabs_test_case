@@ -1,0 +1,113 @@
+{
+  "home": {
+    "title": "Home Page",
+    "navigation": {
+      "home": "Home",
+      "profile": "Profile"
+    },
+    "discover": {
+      "emptyList": "List is Empty. Please Pull Down to Refresh",
+      "readMore": {
+        "showMore": "Show More",
+        "showLess": "Show Less"
+      }
+    }
+  },
+  "general": {
+    "buttons": {
+      "save": "Save",
+      "cancel": "Cancel",
+      "settings": "Open Settings"
+    },
+    "imagePicker": {
+      "camera": "Take Photo",
+      "gallery": "Choose from Gallery",
+      "permissions": {
+        "camera": {
+          "title": "Camera Permission Required",
+          "message": "Please open settings to grant camera permission."
+        },
+        "gallery": {
+          "title": "Gallery Permission Required",
+          "message": "Please open settings to grant gallery permission."
+        }
+      }
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Hello",
+      "description": "Tempus varius a vitae interdum id tortor elementum tristique eleifend at.",
+      "email": "Email",
+      "password": "Password",
+      "forgotPassword": "Forgot Password",
+      "loginButton": "Login",
+      "noAccount": "Don't have an account?",
+      "signUpLink": "Sign Up!",
+      "error": "Please check your information",
+      "ok": "OK"
+    },
+    "register": {
+      "title": "Welcome",
+      "description": "Tempus varius a vitae interdum id tortor elementum tristique eleifend at.",
+      "name": "Full Name",
+      "email": "Email",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "registerButton": "Register Now",
+      "haveAccount": "Already have an account?",
+      "loginLink": "Login!",
+      "userAgreement": {
+        "prefix": "I have read and agree to the ",
+        "accept": "User Agreement",
+        "suffix": ".",
+        "readAndContinue": "Please read and continue.",
+        "period": ".",
+        "read": "User Agreement"
+      }
+    },
+    "profile": {
+      "title": "Profile Details",
+      "notFound": "Not Found",
+      "addPhoto": "Add Photo",
+      "favoriteMovies": "Favorite Movies",
+      "emptyFavorites": "You don't have any favorite movies yet.",
+      "limitedOffer": "Limited Offer",
+      "imdb": "Imdb: {rating}",
+      "error": "Please select a photo",
+      "maxSize": "Image file is too large. Please choose a smaller image (max 2MB)."
+    },
+    "auth": {
+      "detail": {
+        "title": "Profile Detail",
+        "upload": "Upload Your Profile Photo",
+        "desc": "Resources out incentivize\n relaxation floor loss cc",
+        "button": "Continue"
+      }
+    },
+    "detail": {
+      "title": "Profile Detail",
+      "upload": "Upload Your Profile Photo",
+      "desc": "Resources out incentivize\n relaxation floor loss cc",
+      "button": "Continue"
+    }
+  },
+  "premium": {
+    "offer": {
+      "title": "Limited Offer",
+      "description": "Choose your token package to\n earn bonuses and unlock new chapters!",
+      "bonusTitle": "Your Bonuses",
+      "selectPackageTitle": "Select a token package to unlock",
+      "tokenUnit": "Token",
+      "weeklyPrice": "Per week",
+      "showAllButton": "Show All Tokens",
+      "success": "Successfully Clicked",
+      "bonuses": {
+        "premiumAccount": "Premium\nAccount",
+        "moreMatches": "More\nMatches",
+        "boost": "Boost\nProfile",
+        "moreLikes": "More\nLikes"
+      }
+    }
+  }
+}

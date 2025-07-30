@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "616085059336",
+    "project_id": "nodelabs-d0e62",
+    "storage_bucket": "nodelabs-d0e62.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616085059336:android:61bac029d06299a5809ebd",
+        "android_client_info": {
+          "package_name": "com.emtay.architecture.architecture_template"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3A-wMshZqMK4KvAbdw0_tSsFALG1C6pA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

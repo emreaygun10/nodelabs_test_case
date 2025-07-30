@@ -1,0 +1,1 @@
+export 'custom_image/custom_image.dart';

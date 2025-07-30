@@ -1,0 +1,113 @@
+{
+  "home": {
+    "title": "Ana Sayfa",
+    "navigation": {
+      "home": "Ana Sayfa",
+      "profile": "Profil"
+    },
+    "discover": {
+      "emptyList": "Liste Boş. Lütfen Sayfayı Aşağı Sürükleyerek Yenileyiniz",
+      "readMore": {
+        "showMore": "Daha Fazla Göster",
+        "showLess": "Daha Az Göster"
+      }
+    }
+  },
+  "general": {
+    "buttons": {
+      "save": "Kaydet",
+      "cancel": "İptal",
+      "settings": "Ayarları Aç"
+    },
+    "imagePicker": {
+      "camera": "Kamera ile Çek",
+      "gallery": "Galeriden Seç",
+      "permissions": {
+        "camera": {
+          "title": "Kamera İzni Gerekli",
+          "message": "Kamera iznini vermek için ayarları açmanız gerekiyor."
+        },
+        "gallery": {
+          "title": "Galeri İzni Gerekli",
+          "message": "Galeri iznini vermek için ayarları açmanız gerekiyor."
+        }
+      }
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Merhabalar",
+      "description": "Tempus varius a vitae interdum id tortor elementum tristique eleifend at.",
+      "email": "E-Posta",
+      "password": "Şifre",
+      "forgotPassword": "Şifremi unuttum",
+      "loginButton": "Giriş Yap",
+      "noAccount": "Bir hesabın yok mu?",
+      "signUpLink": "Kayıt Ol!",
+      "error": "Lütfen bilgilerinizi kontrol ediniz",
+      "ok": "Tamam"
+    },
+    "register": {
+      "title": "Hoşgeldiniz",
+      "description": "Tempus varius a vitae interdum id tortor elementum tristique eleifend at.",
+      "name": "Ad Soyad",
+      "email": "E-Posta",
+      "password": "Şifre",
+      "confirmPassword": "Şifre Tekrar",
+      "registerButton": "Şimdi Kaydol",
+      "haveAccount": "Zaten bir hesabın var mı?",
+      "loginLink": "Giriş Yap!",
+      "userAgreement": {
+        "prefix": "Kullanıcı sözleşmesini ",
+        "accept": "okudum ve kabul ediyorum",
+        "suffix": ". ",
+        "readAndContinue": "Bu sözleşmeyi okuyarak devam ediniz lütfen",
+        "period": ".",
+        "read": "Kullanıcı Sözleşmesi"
+      }
+    },
+    "profile": {
+      "title": "Profile Detayı",
+      "notFound": "Bulunamadı",
+      "addPhoto": "Fotoğraf Ekle",
+      "favoriteMovies": "Beğendiğim Filmler",
+      "emptyFavorites": "Beğendiğiniz Bir Film Bulunmamaktadır.",
+      "limitedOffer": "Sınırlı Teklif",
+      "imdb": "Imdb: {rating}",
+      "error": "Lütfen bir fotoğraf seçiniz",
+      "maxSize": "Fotoğraf dosyası çok büyük. Lütfen daha küçük bir fotoğraf seçiniz (max 2MB)."
+    },
+    "auth": {
+      "detail": {
+        "title": "Profile Detayı",
+        "upload": "Fotoraflarınızı Yükleyin",
+        "desc": "Resources out incentivize\n relaxation floor loss cc",
+        "button": "Devam Et"
+      }
+    },
+    "detail": {
+      "title": "Profile Detayı",
+      "upload": "Fotoraflarınızı Yükleyin",
+      "desc": "Resources out incentivize\n relaxation floor loss cc",
+      "button": "Devam Et"
+    }
+  },
+  "premium": {
+    "offer": {
+      "title": "Sınırlı Teklif",
+      "description": "Jeton paketin'ni seçerek bonus\n kazanın ve yeni bölümlerin kilidini açın!",
+      "bonusTitle": "Alacağınız Bonuslar",
+      "selectPackageTitle": "Kilidi açmak için bir jeton paketi seçin",
+      "tokenUnit": "Jeton",
+      "weeklyPrice": "Başına haftalık",
+      "showAllButton": "Tüm Jetonları Gör",
+      "success": "Başarıyla Tıklandı.",
+      "bonuses": {
+        "premiumAccount": "Premium\nHesap",
+        "moreMatches": "Daha\nFazla Eşleşme",
+        "boost": "Öne\nÇıkarma",
+        "moreLikes": "Daha\nFazla Beğeni"
+      }
+    }
+  }
+}
